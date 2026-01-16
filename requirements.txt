@@ -1,3 +1,6 @@
+albucore==0.0.35
+albumentationsx==2.0.14
+annotated-types==0.7.0
 anyio==4.12.1
 appnope==0.1.4
 asttokens==3.0.1
@@ -46,6 +49,8 @@ prompt_toolkit==3.0.52
 psutil==7.2.1
 ptyprocess==0.7.0
 pure_eval==0.2.3
+pydantic==2.12.5
+pydantic_core==2.41.5
 Pygments==2.19.2
 pyparsing==3.3.1
 python-dateutil==2.9.0.post0
@@ -57,8 +62,10 @@ scikit-learn==1.8.0
 scipy==1.17.0
 setuptools==80.9.0
 shellingham==1.5.4
+simsimd==6.5.12
 six==1.17.0
 stack-data==0.6.3
+stringzilla==4.6.0
 sympy==1.14.0
 threadpoolctl==3.6.0
 timm==1.0.24
@@ -70,6 +77,7 @@ tornado==6.5.4
 tqdm==4.67.1
 traitlets==5.14.3
 typer-slim==0.21.1
+typing-inspection==0.4.2
 typing_extensions==4.15.0
 tzdata==2025.3
 wcwidth==0.2.14
